@@ -17,7 +17,7 @@ A simple and modern blog post creator app built with **React**, **Tailwind CSS**
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/coder-pink/react-post-manager.git
+git clone https://github.com/coder-pink/React-Post-Manager
 cd react-blog-post-creator
 ```
 
