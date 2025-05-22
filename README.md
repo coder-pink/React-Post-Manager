@@ -38,3 +38,8 @@ npm run dev
 
 All posts are fetched and created using JSONPlaceholder, a free REST API for testing and prototyping.
 
+![FireShot Capture 038 - React Post Manager -  localhost](https://github.com/user-attachments/assets/42577587-f8cd-462c-bd60-8e4943074142)
+
+![FireShot Capture 039 - React Post Manager -  localhost](https://github.com/user-attachments/assets/228a7aa2-3a78-420c-a010-96b8508c6227)
+
+
